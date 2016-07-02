@@ -1,6 +1,6 @@
 # R.Datacleaning
 
-Click here to view the report: http://htmlpreview.github.io/?https://github.com/anthonyhojun/R.Datacleaning/blob/master/Report.html
+Download the Report.html or view it online: http://htmlpreview.github.io/?https://github.com/anthonyhojun/R.Datacleaning/blob/master/Report.html
 
 Exploration of the top competitors in Starcraft 2
 
