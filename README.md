@@ -1,4 +1,7 @@
 # R.Datacleaning
+
+View report: http://htmlpreview.github.io/?https://github.com/anthonyhojun/R.Datacleaning/blob/master/Report.html
+
 Exploration of the top competitors in Starcraft 2
 
 This project focuses on:
